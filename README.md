@@ -8,7 +8,7 @@ Currently I'm **contributing and owner** following projects:
 
 |      Project :octocat:   |    :star: :star: |
 |-------------|----------|
-| [**Tik Tok Clone**](https://github.com/tunm1228/react-native-play-video-flatlist) | [![GitHub PRs](https://img.shields.io/github/stars/tunm1228/react-native-play-video-flatlist?style=flat&logo=github)
+| [**Tik Tok Clone**](https://github.com/tunm1228/react-native-play-video-flatlist) | ![GitHub PRs](https://img.shields.io/github/stars/tunm1228/react-native-play-video-flatlist?style=flat&logo=github)
 <!-- <sup>**[Click here](https://github.com/iamvucms/jobtweets/blob/master/PROJECTS.md)** *to view my other projects.</sup>* -->
 
 - 🔭 I’m currently working on React Native in Ha Noi, Viet Nam
