@@ -1,5 +1,5 @@
 ### Hi there 👋
-**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/tunm1228?tab=repositories) represent my journey :running_man: - From **being curious** with *PHP* to *Laravel* and Now I'm focusing to React Native and fall in love with React Native along with interesting animation, beautiful UI,.. so I decided to spend a lot of time on learning React, React Native and Typescript. And now you can see my results below ^^.
+**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/tunm1228?tab=repositories) represent my journey :running_man: - From **being curious** with *with a major in computer networking* and Now I'm focusing to React Native and fall in love with React Native along with interesting animation, beautiful UI,.. so I decided to spend a lot of time on learning React, React Native and Typescript. And now you can see my results below ^^.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tunm1228&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
